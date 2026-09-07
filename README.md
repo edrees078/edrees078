@@ -1,3 +1,24 @@
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22D3EE&height=210&section=header&text=Edrees%20Abu%20Hamdieh&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Computer%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Application%20Security&descAlignY=56&descSize=16"
+    alt="Edrees Abu Hamdieh header"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/edrees078">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=0EA5E9&center=true&vCenter=true&width=750&lines=Building+secure+full-stack+applications;Exploring+application+security;Developing+AI-assisted+software+workflows;Turning+complex+ideas+into+reliable+software"
+      alt="Typing introduction"
+    />
+  </a>
+</p>
+
+
+
+
+
 <h1 align="center">Hi, I'm Edrees Abu Hamdieh 👋</h1>
 
 <p align="center">
