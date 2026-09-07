@@ -15,20 +15,6 @@
   </a>
 </p>
 
-
-
-
-
-<h1 align="center">Hi, I'm Edrees Abu Hamdieh 👋</h1>
-
-<p align="center">
-  <strong>Computer Engineering Graduate · Full-Stack Web Developer · Application Security</strong>
-</p>
-
-<p align="center">
-  I build secure, production-oriented web applications and turn complex ideas into reliable software.
-</p>
-
 <p align="center">
   <a href="mailto:edriis02@icloud.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=icloud&logoColor=white" alt="Email Edrees" />
