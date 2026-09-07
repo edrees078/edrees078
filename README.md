@@ -124,3 +124,10 @@ Machine learning for behavioral biometrics
 <p align="center">
   <em>Open to software engineering opportunities and collaborative projects.</em>
 </p>
+
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:22D3EE&height=110&section=footer"
+  alt="Footer"
+/>
