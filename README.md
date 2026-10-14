@@ -67,7 +67,7 @@ About Me
 
 <h2 align="center">Technical Skills</h2>
 
-<table width="100%">
+<table align="center">
   <tr>
     <td width="50%" align="center">
       <strong>Full-Stack Development</strong>
@@ -178,7 +178,7 @@ About Me
 
 <h2 align="center">Currently Focused On</h2>
 
-<table width="100%">
+<table align="center">
   <tr>
     <td width="50%" align="center">
       <strong>Secure full-stack application architecture</strong>
