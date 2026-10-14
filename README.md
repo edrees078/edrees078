@@ -63,88 +63,145 @@ About Me
 
 🗣️ Arabic (Native) · English (C1) · Turkish (C1)
 
-Technical Skills
+<br>
 
-Full-Stack Development
+<h2 align="center">Technical Skills</h2>
 
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <strong>Full-Stack Development</strong>
+    </td>
+    <td width="50%" align="center">
+      <strong>Data &amp; Backend Services</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>DevOps &amp; Security</strong>
+    </td>
+    <td width="50%" align="center">
+      <strong>Machine Learning &amp; Other Languages</strong>
+    </td>
+  </tr>
+</table>
 
+<br>
 
+<h2 align="center">Selected Projects</h2>
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        UzmanaGel / Khabiir — Full-Stack Service Marketplace
+      </h3>
+      <p>
+        Arabic-first service marketplace built with React, Node.js, Express,
+        PostgreSQL, Firebase, Docker, and GitHub Actions. I worked on
+        authentication, role-based workflows, messaging, payments, backend
+        modularization, and protected API controls.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        TaskiFlow — Project &amp; Workspace Management Platform
+      </h3>
+      <p>
+        Multi-organization platform built with React, TypeScript, Node.js,
+        Express, PostgreSQL, Prisma, and JWT. I improved project-aware task
+        flows, notification synchronization, authorization, ownership checks,
+        and user-data isolation.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        Keystroke Dynamics Authentication System — Graduation Project
+      </h3>
+      <p>
+        Behavioral-biometric authentication system built with Python, Django,
+        scikit-learn, Pandas, NumPy, and SQLite. I engineered up to 502
+        behavioral features, evaluated 16 machine-learning classifiers, and
+        integrated trained models into an end-to-end verification pipeline.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        SnowNoVA — OWASP Vulnerability Simulation Lab
+      </h3>
+      <p>
+        An intentionally vulnerable educational application demonstrating SQL
+        injection, XSS, weak authentication, logging and monitoring failures,
+        and software/data integrity issues—alongside improved implementations
+        and mitigations.
+      </p>
+    </td>
+  </tr>
+</table>
 
+<br>
 
+<h2 align="center">Experience Highlights</h2>
 
+<table width="100%">
+  <tr>
+    <td>
+      <ul>
+        <li>
+          Built frontend and backend features using React, Node.js, Express,
+          REST APIs, and PostgreSQL
+        </li>
+        <li>
+          Applied Firebase token verification, role-based authorization, CORS
+          configuration, and reCAPTCHA
+        </li>
+        <li>
+          Used Docker and GitHub Actions for containerized development and
+          CI/CD workflows
+        </li>
+        <li>
+          Performed vulnerability testing for SQL injection, broken access
+          control, and insecure design
+        </li>
+        <li>
+          Used agentic AI-assisted development while independently reviewing,
+          testing, debugging, and refining generated code
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<br>
 
-Data & Backend Services
+<h2 align="center">Currently Focused On</h2>
 
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <strong>Secure full-stack application architecture</strong>
+    </td>
+    <td width="50%" align="center">
+      <strong>Application security and OWASP-based testing</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Agentic AI-assisted software engineering</strong>
+    </td>
+    <td width="50%" align="center">
+      <strong>Machine learning for behavioral biometrics</strong>
+    </td>
+  </tr>
+</table>
 
-
-
-
-
-
-
-DevOps & Security
-
-
-
-
-
-
-
-
-Machine Learning & Other Languages
-
-
-
-
-
-
-
-Selected Projects
-
-UzmanaGel / Khabiir — Full-Stack Service Marketplace
-
-Arabic-first service marketplace built with React, Node.js, Express, PostgreSQL, Firebase, Docker, and GitHub Actions. I worked on authentication, role-based workflows, messaging, payments, backend modularization, and protected API controls.
-
-TaskiFlow — Project & Workspace Management Platform
-
-Multi-organization platform built with React, TypeScript, Node.js, Express, PostgreSQL, Prisma, and JWT. I improved project-aware task flows, notification synchronization, authorization, ownership checks, and user-data isolation.
-
-Keystroke Dynamics Authentication System — Graduation Project
-
-Behavioral-biometric authentication system built with Python, Django, scikit-learn, Pandas, NumPy, and SQLite. I engineered up to 502 behavioral features, evaluated 16 machine-learning classifiers, and integrated trained models into an end-to-end verification pipeline.
-
-SnowNoVA — OWASP Vulnerability Simulation Lab
-
-An intentionally vulnerable educational application demonstrating SQL injection, XSS, weak authentication, logging and monitoring failures, and software/data integrity issues—alongside improved implementations and mitigations.
-
-Experience Highlights
-
-Built frontend and backend features using React, Node.js, Express, REST APIs, and PostgreSQL
-
-Applied Firebase token verification, role-based authorization, CORS configuration, and reCAPTCHA
-
-Used Docker and GitHub Actions for containerized development and CI/CD workflows
-
-Performed vulnerability testing for SQL injection, broken access control, and insecure design
-
-Used agentic AI-assisted development while independently reviewing, testing, debugging, and refining generated code
-
-Currently Focused On
-
-Secure full-stack application architecture
-
-Application security and OWASP-based testing
-
-Agentic AI-assisted software engineering
-
-Machine learning for behavioral biometrics
+<br>
 
 <p align="center">
   <em>Open to software engineering opportunities and collaborative projects.</em>
 </p>
-
 
 <img
   width="100%"
