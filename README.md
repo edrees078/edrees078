@@ -16,14 +16,34 @@
 </p>
 
 <p align="center">
-  <a href="mailto:edriis02@icloud.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=icloud&logoColor=white" alt="Email Edrees" />
+  <a
+    href="mailto:edriis02@icloud.com?subject=GitHub%20Profile%20Inquiry"
+    title="Send me an email"
+  >
+    <img
+      src="https://img.shields.io/badge/-Contact%20me%20by%20email-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white"
+      alt="Contact me by email"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/edrees-abu-hamdieh-84a354243/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Edrees on LinkedIn" />
+  &nbsp;
+  <a
+    href="https://www.linkedin.com/in/edrees-abu-hamdieh-84a354243/"
+    title="Connect with me on LinkedIn"
+  >
+    <img
+      src="https://img.shields.io/badge/-Connect%20through%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect through LinkedIn"
+    />
   </a>
-  <a href="https://github.com/edrees078?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Edrees's GitHub projects" />
+  &nbsp;
+  <a
+    href="https://github.com/edrees078?tab=repositories"
+    title="Explore my GitHub projects"
+  >
+    <img
+      src="https://img.shields.io/badge/-View%20projects-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View projects"
+    />
   </a>
 </p>
 
