@@ -118,7 +118,9 @@ About Me
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        Keystroke Dynamics Authentication System — Graduation Project
+        <a href="https://github.com/edrees078/keystroke-dynamics-paragraph-auth">
+          Keystroke Dynamics Authentication System — Graduation Project
+        </a>
       </h3>
       <p>
         Behavioral-biometric authentication system built with Python, Django,
@@ -129,7 +131,9 @@ About Me
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        SnowNoVA — OWASP Vulnerability Simulation Lab
+        <a href="https://github.com/edrees078/OWASP-Top-10-Vulnerabilities-Simulation-Lab">
+          SnowNoVA — OWASP Vulnerability Simulation Lab
+        </a>
       </h3>
       <p>
         An intentionally vulnerable educational application demonstrating SQL
